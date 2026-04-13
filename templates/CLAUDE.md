@@ -24,7 +24,7 @@
 
 ## 我的卦
 
-<!-- 冷啟動校準後填入。參見 calibration/GUIDE.md -->
+<!-- 冷啟動校準後填入。參見 wuji-my-axiom repo 的 calibration/GUIDE.md -->
 
 {你的兩儀}
 {你的四象}
